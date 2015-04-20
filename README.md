@@ -14,7 +14,9 @@ Workflow
 
 2. Storing decisions
 --------------------
- - Once an issue is accepted, put that up as a wiki page with the final design decisions, maintaining a link to the issue(s) in which the decisions were taken.
+- If it is a graphic asset, it needs to go in corresponding folder in the repository.
+- If it is a decision that needs to remain private, put that up as a wiki page with the final design decisions, maintaining a link to the issue(s) in which the decisions were taken.
+- If it is a decision which can remain public, e.g. branding guidelines, then it needs be put in the repository as a page, accessible from the `branding` website.
 
 Setting priorities through labels
 =================================

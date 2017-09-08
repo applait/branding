@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1660 1465" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Wordmark" transform="matrix(0.290188,0,0,0.874344,-146.954,-225.652)">
+        <rect x="506.409" y="258.082" width="5718.53" height="1675.05" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="506.409" y="258.082" width="5718.53" height="1675.05"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(3.34512,0,0,0.998707,-1187.59,0.333825)">
+                <g transform="matrix(1.03017,0,0,1.14887,24.5249,-235.805)">
+                    <path d="M471.647,1891.57L973.413,1113.98L1211.09,1533.59L973.413,1891.57L471.647,1891.57Z" style="fill:rgb(134,194,50);"/>
+                </g>
+                <g transform="matrix(-1.03017,-1.40696e-16,1.2616e-16,-1.14887,2572.92,2429.21)">
+                    <path d="M471.647,1891.57L810.965,1372.18L1058.51,1763.4L973.413,1891.57L471.647,1891.57Z" style="fill:rgb(134,194,50);"/>
+                </g>
+                <g transform="matrix(1.03017,0,0,1.14887,-819.808,-244.395)">
+                    <path d="M2945.26,1542.39C2930.59,1624.55 2702.68,1887.92 2506.1,1898.71C2306.85,1909.64 2219.44,1832.32 2162.54,1762.14C2109.83,1697.12 1858.59,1250.72 1667.93,923.809C1484.38,609.071 1288.59,923.809 1288.59,923.809C1326.73,852.408 1441.96,435.263 1667.93,436.775C1879.45,438.19 2015.09,530.057 2296.78,1037.69C2575.76,1540.42 2509.45,1423.65 2578.48,1542.39C2600.74,1580.69 2785.34,1892.31 2945.26,1542.39" style="fill:rgb(134,194,50);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

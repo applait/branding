@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1280 720" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(0.979389,0,0,1.00106,2.47947,0.912357)">
+        <rect x="-2.532" y="-0.911" width="653.468" height="719.239" style="fill:rgb(134,194,50);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-11.2405,-100.712)">
+        <text x="51.241px" y="204.302px" style="font-family:'FiraSans-Medium', 'Fira Sans', sans-serif;font-weight:500;font-size:18px;fill:white;">Gr<tspan x="69.277px " y="204.302px ">e</tspan>en</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-6.68354,-15.7772)">
+        <text x="46.684px" y="43.897px" style="font-family:'FiraSans-Medium', 'Fira Sans', sans-serif;font-weight:500;font-size:20px;fill:white;">C<tspan x="57.644px 69.324px 75.124px " y="43.897px 43.897px 43.897px ">olo</tspan>ur</text>
+    </g>
+    <g transform="matrix(1,0,0,1,1.51899,-63.6659)">
+        <text x="38.481px" y="126.834px" style="font-family:'FiraSans-SemiBold', 'Fira Sans', sans-serif;font-weight:600;font-size:24px;fill:white;">P<tspan x="52.281px " y="126.834px ">r</tspan>imary</text>
+    </g>
+    <g id="Logo" transform="matrix(0.335003,0,0,0.335003,-124.151,596.451)">
+        <g transform="matrix(0.054055,0,0,0.0542283,464.649,146.784)">
+            <path d="M471.647,1891.57L973.413,1113.98L1211.09,1533.59L973.413,1891.57L471.647,1891.57Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(-0.054055,-6.64105e-18,6.61983e-18,-0.0542283,598.368,272.577)">
+            <path d="M471.647,1891.57L810.965,1372.18L1058.51,1763.4L973.413,1891.57L471.647,1891.57Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(0.054055,0,0,0.0542283,420.345,146.379)">
+            <path d="M2945.26,1542.39C2930.59,1624.55 2702.68,1887.92 2506.1,1898.71C2306.85,1909.64 2219.44,1832.32 2162.54,1762.14C2109.83,1697.12 1858.59,1250.72 1667.93,923.809C1484.38,609.071 1288.59,923.809 1288.59,923.809C1326.73,852.408 1441.96,435.263 1667.93,436.775C1879.45,438.19 2015.09,530.057 2296.78,1037.69C2575.76,1540.42 2509.45,1423.65 2578.48,1542.39C2600.74,1580.69 2785.34,1892.31 2945.26,1542.39" style="fill:white;"/>
+        </g>
+    </g>
+    <g transform="matrix(1.3609,0,0,0.734201,-317.795,-30.1115)">
+        <rect x="703.797" y="41.013" width="470.278" height="245.165" style="fill:rgb(34,38,41);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,641.519,-63.6659)">
+        <text x="38.481px" y="126.834px" style="font-family:'FiraSans-SemiBold', 'Fira Sans', sans-serif;font-weight:600;font-size:24px;fill:white;">Sec<tspan x="76.257px " y="126.834px ">o</tspan>ndary</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-6.68354,-92.0301)">
+        <text x="46.684px" y="222.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:white;">HEX: #86C23<tspan x="122.298px " y="222.53px ">2</tspan></text>
+        <text x="46.684px" y="241.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:white;">R<tspan x="55.028px " y="241.53px ">G</tspan>B: 134 19<tspan x="116.852px " y="241.53px ">4</tspan> 50</text>
+        <text x="46.684px" y="260.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:white;">CM<tspan x="65.122px " y="260.53px ">Y</tspan>K: 3<tspan x="94.774px " y="260.53px ">1</tspan> 0 7<tspan x="121.724px " y="260.53px ">4</tspan> 2<tspan x="139.434px " y="260.53px ">4</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,628.759,-100.712)">
+        <text x="51.241px" y="204.302px" style="font-family:'FiraSans-Medium', 'Fira Sans', sans-serif;font-weight:500;font-size:18px;fill:white;">Black</text>
+    </g>
+    <g transform="matrix(1,0,0,1,633.316,-92.0301)">
+        <text x="46.684px" y="222.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:white;">HEX: #<tspan x="85.464px " y="222.53px ">2</tspan>226<tspan x="113.548px 120.338px " y="222.53px 222.53px ">29</tspan></text>
+        <text x="46.684px" y="241.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:white;">R<tspan x="55.028px " y="241.53px ">G</tspan>B: 34 38 4<tspan x="122.564px " y="241.53px ">1</tspan></text>
+        <text x="46.684px" y="260.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:white;">CM<tspan x="65.122px " y="260.53px ">Y</tspan>K: 17 7 0 84</text>
+    </g>
+    <g transform="matrix(1.3609,0,0,0.734201,-317.795,329.888)">
+        <rect x="703.797" y="41.013" width="470.278" height="245.165" style="fill:rgb(217,217,217);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,628.759,259.288)">
+        <text x="51.241px" y="204.302px" style="font-family:'FiraSans-Medium', 'Fira Sans', sans-serif;font-weight:500;font-size:18px;fill:rgb(34,38,41);">Light Gr<tspan x="114.835px 124.609px " y="204.302px 204.302px ">ey</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,633.316,267.97)">
+        <text x="46.684px" y="222.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:rgb(34,38,41);">HEX: #D9D9D9</text>
+        <text x="46.684px" y="241.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:rgb(34,38,41);">R<tspan x="55.028px " y="241.53px ">G</tspan>B: 2<tspan x="86.024px " y="241.53px ">1</tspan>7 2<tspan x="108.592px " y="241.53px ">1</tspan>7 2<tspan x="131.16px " y="241.53px ">1</tspan>7</text>
+        <text x="46.684px" y="260.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:rgb(34,38,41);">CM<tspan x="65.122px " y="260.53px ">Y</tspan>K: 0 0 0 15</text>
+    </g>
+    <g transform="matrix(1.3609,0,0,0.734201,-317.795,149.888)">
+        <rect x="703.797" y="41.013" width="470.278" height="245.165" style="fill:rgb(75,75,75);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,628.759,78.2877)">
+        <text x="51.241px" y="204.302px" style="font-family:'FiraSans-Medium', 'Fira Sans', sans-serif;font-weight:500;font-size:18px;fill:white;">D<tspan x="62.725px " y="204.302px ">a</tspan>rk Gr<tspan x="111.793px 121.567px " y="204.302px 204.302px ">ey</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,633.316,86.9699)">
+        <text x="46.684px" y="222.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:white;">HEX: #4B<tspan x="101.396px 108.844px 117.216px " y="222.53px 222.53px 222.53px ">4B4</tspan>B</text>
+        <text x="46.684px" y="241.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:white;">R<tspan x="55.028px " y="241.53px ">G</tspan>B: 7<tspan x="85.45px " y="241.53px ">5</tspan> 7<tspan x="102.18px " y="241.53px ">5</tspan> 7<tspan x="118.91px " y="241.53px ">5</tspan></text>
+        <text x="46.684px" y="260.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:white;">CM<tspan x="65.122px " y="260.53px ">Y</tspan>K: 0 0 0 7<tspan x="128.668px " y="260.53px ">1</tspan></text>
+    </g>
+    <g transform="matrix(1.3609,0,0,0.734201,-317.795,509.888)">
+        <rect x="703.797" y="41.013" width="470.278" height="245.165" style="fill:white;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,628.759,439.288)">
+        <text x="51.241px" y="204.302px" style="font-family:'FiraSans-Medium', 'Fira Sans', sans-serif;font-weight:500;font-size:18px;fill:rgb(34,38,41);">Whit<tspan x="88.285px " y="204.302px ">e</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,633.316,447.97)">
+        <text x="46.684px" y="222.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:rgb(34,38,41);">HEX: #FFFFFF</text>
+        <text x="46.684px" y="241.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:rgb(34,38,41);">R<tspan x="55.028px " y="241.53px ">G</tspan>B: 255 25<tspan x="117.916px " y="241.53px ">5</tspan> 255</text>
+        <text x="46.684px" y="260.53px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:14px;fill:rgb(34,38,41);">CM<tspan x="65.122px " y="260.53px ">Y</tspan>K: 0 0 0 0</text>
+    </g>
+</svg>
